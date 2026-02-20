@@ -236,7 +236,7 @@ gantt
 
 ## 5. Loom Video
 
-**Link:** `[INSERT LOOM LINK]`
+**Link:** `https://drive.google.com/file/d/1eLBb4SqlPCCokpQggXqj_dLdvHz1aI8a/view?usp=sharing`
 
 ### Video Outline (5–8 min)
 
